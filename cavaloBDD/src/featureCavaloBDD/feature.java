@@ -19,7 +19,7 @@ Um cavalo de corrida "Mensagem Polimórfica" é possuído por:
 * Erich gama (10%);
 * Brian Foote (20%);
 
-O cavalo é atendido pelo Dr. Roberts e decide que não é motivo de preocupação e prescreve algum analgésico tópico. 
+O cavalo é atendido pelo Dr. Roberts. Ele decide que não há motivo para preocupação e prescreve algum analgésico tópico. 
 É fornecido a Ralph uma fatura discriminando as acusações. 
 A fatura também mostra o percentual da conta que cada proprietário é responsável. 
 No final do mês, um boleto é enviado para Grady, Martin, Ralph, Erich e Brian detalhando a quantidade que eles devem."
